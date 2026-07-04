@@ -3,9 +3,9 @@
 
 # 🛠️ POORVA JAIN
 
-### `SYSTEM ENGINEER // FULL-STACK & MACHINE INTELLIGENCE`
+### `PYTHON DEVELOPER , AI & ML| GEN-AI`
 
-📱 **+91-7869712770** | 📧 **jainpoorva535@gmail.com**
+📧 **jainpoorva535@gmail.com**
 
 
 🔗 **[Portfolio Matrix](https://portfolio-qe9b.vercel.app/)** | 💼 **[LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/poorva-jain-92867a2b5)** | 🐙 **[GitHub](https://www.google.com/search?q=https://github.com/Poorvajain2005)** | ⚡ **[LeetCode](https://www.google.com/search?q=https://leetcode.com/u/poorva_pj/)**
