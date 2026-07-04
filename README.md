@@ -3,7 +3,7 @@
 ---
 
 # 🛠️ POORVA JAIN
-<img width="291" height="297" alt="Screenshot 2026-07-04 123512" src="https://github.com/user-attachments/assets/a387ed6d-f232-4c5f-a13a-42b726257a0b" />
+<img width="291" height="297" align="center" alt="Screenshot 2026-07-04 123512" src="https://github.com/user-attachments/assets/a387ed6d-f232-4c5f-a13a-42b726257a0b" />
 
 
 ### `PYTHON DEVELOPER , AI-ML | GEN-AI`
