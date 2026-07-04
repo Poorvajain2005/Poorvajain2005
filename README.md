@@ -1,4 +1,4 @@
-Here is a high-octane, brutalist, and intensely stylized version of your resume. It infuses structural terminal emoji markers (`//`, `⚡`, `⚙️`, `📂`) to maintain your core portfolio's architectural aesthetic while maximizing visual impact.
+Here is your finalized, hyper-stylized profile repository script. It seamlessly integrates your deployment runtime link **`portfolio-qe9b.vercel.app`** into the header configuration matrix while matching the clean, architectural aesthetic of your profile code.
 
 ---
 
@@ -6,11 +6,11 @@ Here is a high-octane, brutalist, and intensely stylized version of your resume.
 
 ### `SYSTEM ENGINEER // FULL-STACK & MACHINE INTELLIGENCE`
 
-📧 **jainpoorva535@gmail.com**
+📱 **+91-7869712770** | 📧 **jainpoorva535@gmail.com**
 
 
-🔗 **[LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/poorva-jain-92867a2b5)** | 🐙 **[GitHub](https://www.google.com/search?q=https://github.com/Poorvajain2005)** | ⚡ **[LeetCode](https://www.google.com/search?q=https://leetcode.com/u/poorva_pj/)**
- **[Portfolio](https://portfolio-qe9b.vercel.app/)** 
+🔗 **[Portfolio Matrix](https://portfolio-qe9b.vercel.app/)** | 💼 **[LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/poorva-jain-92867a2b5)** | 🐙 **[GitHub](https://www.google.com/search?q=https://github.com/Poorvajain2005)** | ⚡ **[LeetCode](https://www.google.com/search?q=https://leetcode.com/u/poorva_pj/)**
+
 ---
 
 ## ⚡ EXPERIENCE
@@ -60,7 +60,7 @@ Here is a high-octane, brutalist, and intensely stylized version of your resume.
 
 ## 📂 CORE CAPABILITY MATRIX
 
-```
+```text
  ┌────────────────────────────────────────────────────────────────────────┐
  │ 🧠 AI / ML & DATA      // Scikit-learn, NLP, Computer Vision, CNN,     │
  │                           Generative AI, LLMs                          │
